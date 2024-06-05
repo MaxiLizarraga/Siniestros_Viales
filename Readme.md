@@ -1,7 +1,16 @@
 
 # PI Analista de datos: Siniestros Viales
 
-<img src="_img/logo_Seguridad_vial.png"  height="100">
+<img src="_img/logo_Seguridad_vial.png"  height="200">
+
+# Guia de contenido
+- [Explicacion de Datos](#datos)
+- [Analisis Exploratorio de Datos: EDA](#eda)
+- [Analisis y conclusiones de los KPIs Utilizados](#kpis)
+- [Conclusiones Finales sobre los datos](#conclusiones-finales)
+- [Tecnologias Utilizadas en el proyecto](#tecnologias-utilizadas)
+- [Datasets utilizados](#datasets)
+- [Contacto](#contacto)
 
 **Descripción:**
 En este proyecto, el Observatorio de Movilidad y Seguridad Vial (OMSV) nos encargó realizar un exhaustivo análisis sobre los siniestros viales que tienen lugar en **Capital Federal (CABA), Buenos Aires, Argentina**, durante el período comprendido entre los años 2016 y 2021. El objetivo principal es comprender mejor la ubicación y características de los accidentes, así como identificar los tipos de vehículos implicados tanto como víctimas como causantes. También buscamos determinar en qué fechas son más frecuentes estos incidentes y cuáles son los géneros más afectados. A través de este análisis, se pretende descubrir patrones subyacentes y proporcionar recomendaciones para reducir la incidencia de accidentes viales.
@@ -20,7 +29,7 @@ Para llevar a cabo este análisis, utilizaremos dos conjuntos de datos de acceso
 
 **Dataset Víctimas:** Este conjunto de datos contiene la identificación del hecho, que es esencial para establecer la relación con los datos del conjunto de Hechos. También incluye información sobre la fecha, la edad de la persona accidentada, el sexo, el tipo de vehículo en el que se encontraba, el rol que desempeñaba en el vehículo en el momento del incidente y la fecha del fallecimiento en caso de que haya ocurrido.
 
-## EDA
+# EDA
 <img src="_img/analisis-de-datos.jpg"  height="400">
 
 ### Análisis y Limpieza de Datos
@@ -170,7 +179,7 @@ En base al análisis realizado, podemos concluir lo siguiente:
 
 
 ---
-## Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 **Manipulación de Datos:** 
 - ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
@@ -182,7 +191,17 @@ En base al análisis realizado, podemos concluir lo siguiente:
 - ![PowerBI](https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=powerbi)
 
 
-## Datasets
+# Informacion Extra
 
-- [Dataset Hechos y Victimas](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+- [Dataset de Siniestro viales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
+- [Acceso a archivo EDA](EDA.ipynb)
+
+# Contacto
+
+Puedes contactarme a través de los siguientes medios:
+
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maxi-lizarraga)|[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaxiLizarraga) | | 
+| --- | --- | --- |
+
+### Email : maxijavierlizarraga@outlook.com
 
