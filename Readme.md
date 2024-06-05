@@ -20,8 +20,6 @@ Para llevar a cabo este análisis, utilizaremos dos conjuntos de datos de acceso
 
 **Dataset Víctimas:** Este conjunto de datos contiene la identificación del hecho, que es esencial para establecer la relación con los datos del conjunto de Hechos. También incluye información sobre la fecha, la edad de la persona accidentada, el sexo, el tipo de vehículo en el que se encontraba, el rol que desempeñaba en el vehículo en el momento del incidente y la fecha del fallecimiento en caso de que haya ocurrido.
 
-
-
 ## EDA
 <img src="_img/analisis-de-datos.jpg"  height="400">
 
@@ -65,6 +63,8 @@ Esta limpieza y normalización de datos son cruciales para asegurar que el anál
   - **Comuna 1 (Retiro, Monserrat, San Nicolás, Constitución, San Telmo, Puerto Madero):** Aproximadamente 90 casos.
   - **Comuna 4 (Nueva Pompeya, Parque Patricios, Barracas, La Boca):** Aproximadamente 75 casos.
   - **Comuna 9 (Liniers, Mataderos, Parque Avellaneda):** Aproximadamente 70 casos.
+
+<img src="_img/Comunas.gif">
 
 # KPIs
 
