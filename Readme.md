@@ -8,7 +8,7 @@ En este proyecto, el Observatorio de Movilidad y Seguridad Vial (OMSV) nos encar
 
 Finalmente, se presentará una explicación detallada de los resultados obtenidos en el Análisis Exploratorio de Datos (EDA), los Indicadores Clave de Rendimiento (KPIs) y las conclusiones finales. Además, se proporcionará información sobre las tecnologías utilizadas en el proceso de análisis. Se incluirán enlaces a los conjuntos de datos utilizados para que otros investigadores o entidades interesadas puedan acceder a ellos y replicar o ampliar este estudio.
 
-<img src="_img/9_de_julio_dia.jpg"  height="500">
+<img src="_img/9_de_julio.jpg">
 
 # Datos
 
