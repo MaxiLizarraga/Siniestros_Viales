@@ -8,13 +8,13 @@ En este proyecto, el Observatorio de Movilidad y Seguridad Vial (OMSV) nos encar
 
 Finalmente, se presentará una explicación detallada de los resultados obtenidos en el Análisis Exploratorio de Datos (EDA), los Indicadores Clave de Rendimiento (KPIs) y las conclusiones finales. Además, se proporcionará información sobre las tecnologías utilizadas en el proceso de análisis. Se incluirán enlaces a los conjuntos de datos utilizados para que otros investigadores o entidades interesadas puedan acceder a ellos y replicar o ampliar este estudio.
 
-<img src="_img/9_de_julio_dia.jpg"  height="500">
+<img src="_img/9_de_julio.jpg">
 
 # Datos
 
 Para llevar a cabo este análisis, utilizaremos dos conjuntos de datos de acceso público proporcionados por la página de Buenos Aires Datasets, denominados Hechos y Víctimas.
 
-<img src="_img/Logotipo_de_la_Ciudad_de_Buenos_Aires.png"  height="150">
+<img src="_img/Logotipo_de_la_Ciudad_de_Buenos_Aires.png" height="150">
 
 **Dataset Hechos:** Este conjunto de datos contiene principalmente la identificación del hecho, que está relacionada con el conjunto de datos de Víctimas. Además, incluye información sobre la fecha y hora del accidente, la ubicación del hecho, la categoría de la calle donde ocurrió, las coordenadas de latitud y longitud, la comuna correspondiente, la víctima del hecho, el acusado del hecho y los participantes involucrados. Estos últimos pueden ser tanto víctimas como acusados, o puede haber múltiples participantes en un mismo incidente.
 
