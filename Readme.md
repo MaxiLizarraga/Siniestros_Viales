@@ -195,6 +195,7 @@ En base al análisis realizado, podemos concluir lo siguiente:
 
 - [Dataset de Siniestro viales](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales)
 - [Acceso a archivo EDA](EDA.ipynb)
+- [Dashboard](https://app.powerbi.com/groups/me/reports/afe1fcb0-c798-4a01-8f27-4b4642fff51a?ctid=02b270aa-fb2e-453a-9294-22ea7b6b4df6&pbi_source=linkShare)
 
 # Contacto
 
